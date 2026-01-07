@@ -12,7 +12,7 @@ body {
 .hero {
  width: 100%;                  /* العرض كامل */
   height: 100vh;                /* ارتفاع الشاشة كامل */
-  background-image: url("5978863659272310487.jpg ");
+   background-image: url( "5978863659272310522.jpg");
   background-size: cover;       /* الصورة تغطي المكان كله */
   background-position: center;  /* الصورة في النص */
   background-repeat: no-repeat; /* تمنع التكرار */
