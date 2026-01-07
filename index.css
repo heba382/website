@@ -10,12 +10,12 @@ body {
 }
 
 .hero {
-  height: 100vh;
-
-  background-image: url("5978863659272310442.jpg"); /* اسم الصورة */
-  background-size: cover;
-  background-position: center;
-
+ width: 100%;                  /* العرض كامل */
+  height: 100vh;                /* ارتفاع الشاشة كامل */
+  background-image: url("5978863659272310487.jpg ");
+  background-size: cover;       /* الصورة تغطي المكان كله */
+  background-position: center;  /* الصورة في النص */
+  background-repeat: no-repeat; /* تمنع التكرار */
   position: relative;
 }
 
